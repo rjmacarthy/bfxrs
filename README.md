@@ -1,8 +1,10 @@
 ### bfxrs
 
-A Rust wrapper for Bitfinex Api.
+A Rust wrapper for the [Bitfinex Api](https://docs.bitfinex.com/docs/introduction).
 
-Run Example
+
+
+Run example
 
 `cd example/ && cargo run && cd ..`
 
