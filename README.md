@@ -1,4 +1,4 @@
-bfxrs
+### bfxrs
 
 A Rust wrapper for Bitfinex Api.
 
