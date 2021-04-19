@@ -1,5 +1,7 @@
 ### bfxrs
 
+Written in 2018
+
 A Rust wrapper for the [Bitfinex Api](https://docs.bitfinex.com/docs/introduction).
 
 
