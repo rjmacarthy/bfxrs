@@ -1,15 +1,23 @@
-### bfxrs
+# Bitfinex API Wrapper Written In Rust
 
-Written in 2018
+This is a Rust wrapper for the Bitfinex API.
 
-A Rust wrapper for the [Bitfinex Api](https://docs.bitfinex.com/docs/introduction).
+https://docs.bitfinex.com/docs
 
+## How to run the example
 
+To run the example, navigate to the `example/` directory and execute the following command:
 
-Run example
+`cargo run`
 
-`cd example/ && cargo run && cd ..`
+## How to run the tests
 
-Run tests
+To run the tests, execute the following command:
 
 `cargo test -- --nocapture`
+
+This will run the tests without capturing their output. 
+
+---
+
+*Written in 2018* some things might have changed.
