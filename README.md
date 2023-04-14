@@ -1,4 +1,4 @@
-# Bitfinex API Wrapper Written In Rust
+# bfxrs
 
 This is a Rust wrapper for the Bitfinex API.
 
